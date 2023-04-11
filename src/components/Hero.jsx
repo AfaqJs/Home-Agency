@@ -17,6 +17,7 @@ const Hero = () => {
           Get started now
         </button>
       </div>
+      
     </div>
   );
 };
