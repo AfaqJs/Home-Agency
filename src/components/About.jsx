@@ -9,11 +9,17 @@ const AbourUS = () => {
         <h2 className="ss:text-[.6] text-[1.4rem] mr-auto font-semibold font-poppins md:text-[1.7rem] ">
           Beautiful. Clean. Responsive.
         </h2>
-        <p className=" reen-p text-[11px] font-poppins pt-[14px] ss:text-[14px] md:text-[16px]">
+        <p className=" sm:block hidden reen-p text-[13px] font-poppins pt-[14px] ss:text-[14px] md:text-[16px]">
           REEN is a high-quality solution for those who want a beautiful website
           in no <br /> time.  It's fully responsive and will adapt itself to any
           mobile device. iPad<br /> Android, it  doesn't matter. Your
           content will always looks its absolute best.
+        </p>
+        <p className=" sm:hidden block px-[20px] reen-p text-[12px] font-poppins pt-[14px] ss:text-[14px] md:text-[16px]">
+          REEN is a high-quality solution for those who want a beautiful website
+          in no  time.  It's fully responsive and will adapt itself to any
+          mobile device. iPad Android, it  doesn't matter. Your
+          content will alwawys looks its absolute best.
         </p>
       </div>
 

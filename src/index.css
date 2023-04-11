@@ -179,7 +179,7 @@
  }
 
 }
-@media (min-width: 1220px) and (max-width: 1820px) {
+@media (min-width: 1220px) and (max-width: 2020px) {
   .hero-text {
     width: 70%;
     margin: 0 auto;
@@ -200,4 +200,9 @@
     padding-right: 10px;
   }
   
+}
+@media (min-width: 220px) and (max-width: 1120px) {
+  .footer-text-p {
+    margin: 0 auto;
+  }
 }

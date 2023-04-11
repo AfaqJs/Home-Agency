@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="w-[80%] text-center lg:w-[20%] lg:text-start lg:pr-[30px]">
           <h2 className=" capitalize">WHO WE ARE</h2>
           <img src={whiteLogo} alt="" className="pt-[20px] logo" />
-          <p className="magnis max-w-[300px] text-[#A3B1BF] pt-[20px] text-[14px] ">
+          <p className="magnis max-w-[400px] text-[#A3B1BF] pt-[20px] text-[13px] sm:text-[14px] ">
             Magnis modipsae voloratati andigen daepeditem quiate re porem que
             aut labor. Laceaque eictemperum quiae sitiorem rest non restibusaes
             maio es dem tumquam.
@@ -42,7 +42,7 @@ const Footer = () => {
         </div>
         <div className=" upadates lg:mt-[0] mt-[50px] text-center lg:text-start">
           <h2 className="  capitalize">FREE UPDATES</h2>
-          <p className="max-w-[300px] text-[#A3B1BF] pt-[10px] text-[14px]">
+          <p className=" footer-text-p max-w-[300px] text-[#A3B1BF] pt-[10px] text-[14px] ">
             Conecus iure posae volor remped modis aut lor volor accabora incim
             resto explabo.
           </p>
